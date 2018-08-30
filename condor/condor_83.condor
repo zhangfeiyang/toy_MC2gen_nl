@@ -1,0 +1,11 @@
+Executable = condor/sim_83.sh
+Universe = vanilla
+getenv = TRUE
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = 
+Log = logs/83.log
+error = logs/83.error
+output = logs/83.output
+Arguments = 
+Queue

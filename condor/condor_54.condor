@@ -1,0 +1,11 @@
+Executable = condor/sim_54.sh
+Universe = vanilla
+getenv = TRUE
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = 
+Log = logs/54.log
+error = logs/54.error
+output = logs/54.output
+Arguments = 
+Queue

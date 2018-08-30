@@ -1,0 +1,1500 @@
+1.07027	0.00393389
+1.07657	0.00354207
+1.0683	0.00348571
+1.07926	0.0035087
+1.08422	0.0034356
+1.08806	0.00326538
+1.11362	0.00348245
+1.14785	0.00501742
+ FCN=8.34525 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=3.60404e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06779e+00   1.78101e-03   1.91347e-06   1.49301e-05
+   2  p1           2.01574e-02   1.25475e-03   1.34807e-06  -5.12093e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18100.C
+1.06824	0.00392642
+1.07848	0.00354835
+1.0694	0.0034893
+1.07012	0.00347899
+1.08006	0.00342242
+1.09052	0.00327277
+1.11616	0.0034904
+1.13678	0.00496902
+ FCN=10.135 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=4.10699e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06684e+00   1.77726e-03   2.08556e-06   7.45913e-06
+   2  p1           1.94539e-02   1.24974e-03   1.46653e-06  -6.47574e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18101.C
+1.07658	0.00395709
+1.06975	0.00351962
+1.07383	0.00350374
+1.07935	0.003509
+1.08844	0.00344897
+1.09005	0.00327134
+1.12174	0.00350786
+1.14663	0.00501209
+ FCN=6.01319 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.85074e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06940e+00   1.78340e-03   1.66130e-06   9.27850e-06
+   2  p1           2.09954e-02   1.25718e-03   1.17111e-06  -7.32810e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18102.C
+1.06617	0.00391881
+1.07029	0.00352143
+1.08033	0.00352494
+1.07578	0.0034974
+1.0822	0.00342922
+1.0964	0.00329042
+1.12457	0.00351669
+1.16121	0.00507582
+ FCN=7.70675 FROM MIGRAD    STATUS=CONVERGED      34 CALLS          35 TOTAL
+                     EDM=2.12725e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06637e+00   1.78293e-03   1.85223e-06  -3.86551e-05
+   2  p1           2.48748e-02   1.26478e-03   1.31395e-06  -4.35149e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18103.C
+1.06987	0.00393244
+1.07021	0.00352115
+1.07713	0.00351451
+1.07667	0.00350031
+1.08717	0.00344495
+1.09007	0.00327141
+1.11699	0.00349301
+1.14131	0.00498881
+ FCN=4.65542 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.68027e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06902e+00   1.78097e-03   1.48951e-06   7.83524e-06
+   2  p1           1.96302e-02   1.25259e-03   1.04760e-06  -8.92333e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18104.C
+1.06321	0.00390796
+1.06756	0.00351245
+1.07048	0.0034928
+1.08644	0.00353206
+1.07649	0.00341112
+1.0875	0.00326369
+1.12246	0.0035101
+1.1474	0.00501545
+ FCN=10.864 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.71606e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06426e+00   1.77664e-03   2.15443e-06   3.49593e-05
+   2  p1           2.30198e-02   1.25623e-03   1.52336e-06   4.19205e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18105.C
+1.06745	0.00392352
+1.07154	0.00352552
+1.07693	0.00351386
+1.08202	0.00351769
+1.07909	0.00341936
+1.09313	0.00328061
+1.11863	0.00349811
+1.15089	0.0050307
+ FCN=4.00633 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=4.01604e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06771e+00   1.78176e-03   1.40240e-06   5.97702e-06
+   2  p1           2.17677e-02   1.25783e-03   9.90024e-07   9.55441e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18106.C
+1.07244	0.00394187
+1.06932	0.00351823
+1.07085	0.00349401
+1.07716	0.00350188
+1.07674	0.0034119
+1.09248	0.00327864
+1.12155	0.00350726
+1.14119	0.00498832
+ FCN=3.55636 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=7.56193e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06617e+00   1.77769e-03   1.33556e-06   1.86289e-06
+   2  p1           2.14020e-02   1.25351e-03   9.41749e-07   1.14553e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18107.C
+1.07087	0.0039361
+1.07793	0.00354655
+1.07946	0.00352211
+1.08432	0.00352518
+1.0786	0.00341779
+1.09208	0.00327743
+1.12158	0.00350735
+1.15209	0.00503595
+ FCN=5.84513 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=8.31533e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.07029e+00   1.78628e-03   1.64302e-06   1.53727e-05
+   2  p1           2.12671e-02   1.26049e-03   1.15940e-06  -1.31782e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18108.C
+1.07258	0.00394238
+1.07153	0.00352551
+1.08365	0.00353579
+1.06956	0.0034772
+1.07904	0.00341919
+1.08599	0.00325917
+1.11996	0.00350228
+1.14771	0.00501678
+ FCN=17.3077 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.92583e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06697e+00   1.78126e-03   2.67844e-06  -1.60761e-05
+   2  p1           2.10944e-02   1.25717e-03   1.89038e-06   3.07511e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18109.C
+1.06548	0.00391628
+1.07088	0.00352334
+1.07718	0.00351469
+1.07375	0.00349079
+1.08373	0.00343407
+1.10182	0.00330668
+1.12052	0.00350405
+1.14984	0.0050261
+ FCN=14.4454 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.13507e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06766e+00   1.78082e-03   2.46498e-06   4.74719e-06
+   2  p1           2.25981e-02   1.25756e-03   1.74068e-06  -1.10443e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18110.C
+1.06931	0.00393035
+1.07128	0.00352468
+1.07725	0.00351491
+1.07986	0.00351066
+1.08477	0.00343736
+1.09685	0.00329175
+1.12056	0.00350415
+1.14647	0.00501138
+ FCN=3.45444 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=8.10129e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06956e+00   1.78289e-03   1.32438e-06  -9.81308e-06
+   2  p1           2.11574e-02   1.25646e-03   9.33338e-07  -4.00749e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18111.C
+1.06847	0.00392726
+1.06874	0.0035163
+1.07785	0.00351686
+1.07783	0.00350405
+1.08109	0.00342571
+1.09275	0.00327945
+1.1179	0.00349583
+1.15573	0.00505184
+ FCN=5.77932 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=8.10054e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06654e+00   1.78138e-03   1.63152e-06  -1.71428e-05
+   2  p1           2.26898e-02   1.25980e-03   1.15382e-06   9.94354e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18112.C
+1.06695	0.0039217
+1.07431	0.00353465
+1.07432	0.00350534
+1.07907	0.00350808
+1.08709	0.00344471
+1.09315	0.00328065
+1.1174	0.00349426
+1.14298	0.00499611
+ FCN=4.53506 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.15245e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06945e+00   1.78172e-03   1.47465e-06   2.29927e-06
+   2  p1           1.99996e-02   1.25356e-03   1.03752e-06  -9.61358e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18113.C
+1.06876	0.00392836
+1.07129	0.0035247
+1.07577	0.00351007
+1.07447	0.00349316
+1.08237	0.00342973
+1.09457	0.00328493
+1.11863	0.00349813
+1.14351	0.00499845
+ FCN=3.65167 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.50502e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06774e+00   1.77983e-03   1.35077e-06   1.55014e-06
+   2  p1           2.08565e-02   1.25398e-03   9.51681e-07   5.60314e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18114.C
+1.07343	0.0039455
+1.06856	0.00351571
+1.07074	0.00349368
+1.08439	0.00352541
+1.08145	0.00342682
+1.08515	0.00325665
+1.12115	0.00350599
+1.15142	0.00503301
+ FCN=8.68054 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=6.81638e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06639e+00   1.78090e-03   1.94866e-06  -2.18323e-05
+   2  p1           2.22891e-02   1.25881e-03   1.37739e-06  -4.05434e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18115.C
+1.06996	0.00393275
+1.06957	0.00351906
+1.06989	0.0034909
+1.08212	0.00351802
+1.07714	0.00341319
+1.08506	0.00325636
+1.12836	0.00352855
+1.14973	0.00502562
+ FCN=8.29988 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.17528e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06431e+00   1.77844e-03   1.90917e-06  -6.46886e-06
+   2  p1           2.39854e-02   1.25988e-03   1.35249e-06  -5.82657e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18116.C
+1.06307	0.00390745
+1.07502	0.00353698
+1.07806	0.00351754
+1.07231	0.00348611
+1.08094	0.00342521
+1.09318	0.00328073
+1.11429	0.00348455
+1.15001	0.00502687
+ FCN=12.7874 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.66487e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06670e+00   1.77989e-03   2.32403e-06  -3.87045e-05
+   2  p1           2.12124e-02   1.25572e-03   1.63961e-06   4.58820e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18117.C
+1.07331	0.00394505
+1.07738	0.00354475
+1.07134	0.00349562
+1.0827	0.0035199
+1.08501	0.00343813
+1.08929	0.00326908
+1.12497	0.00351796
+1.14541	0.00500674
+ FCN=5.25486 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=3.46345e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06983e+00   1.78417e-03   1.56968e-06   9.57674e-06
+   2  p1           2.10997e-02   1.25788e-03   1.10666e-06  -9.07313e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18118.C
+1.0659	0.00391784
+1.07295	0.00353016
+1.07125	0.00349531
+1.07708	0.00350162
+1.0862	0.00344188
+1.0882	0.0032658
+1.12103	0.00350564
+1.15051	0.00502903
+ FCN=4.94786 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.16362e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06607e+00   1.77981e-03   1.52735e-06  -1.02855e-05
+   2  p1           2.25484e-02   1.25797e-03   1.07954e-06  -1.61792e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18119.C
+1.06679	0.00392111
+1.0689	0.00351685
+1.0769	0.00351377
+1.08494	0.00352717
+1.0846	0.00343682
+1.09011	0.00327154
+1.11477	0.00348605
+1.15129	0.00503244
+ FCN=10.2803 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=6.3191e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06831e+00   1.78215e-03   2.10469e-06  -2.19862e-05
+   2  p1           2.09233e-02   1.25666e-03   1.48409e-06  -4.42565e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18120.C
+1.06561	0.00391676
+1.07572	0.00353929
+1.07155	0.00349631
+1.07556	0.0034967
+1.08158	0.00342726
+1.0907	0.00327331
+1.11851	0.00349774
+1.14353	0.00499852
+ FCN=3.57436 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.12434e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06676e+00   1.77878e-03   1.33840e-06   2.75441e-05
+   2  p1           2.09559e-02   1.25379e-03   9.43383e-07  -1.66054e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18121.C
+1.07561	0.00395351
+1.06819	0.0035145
+1.07918	0.00352121
+1.0777	0.00350363
+1.07229	0.0033978
+1.08736	0.00326329
+1.12017	0.00350294
+1.152	0.00503554
+ FCN=13.7369 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=3.59731e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06587e+00   1.78081e-03   2.40292e-06   1.00630e-05
+   2  p1           2.21692e-02   1.25916e-03   1.69903e-06  -8.79799e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18122.C
+1.06675	0.00392095
+1.06645	0.00350877
+1.07357	0.00350291
+1.07611	0.00349848
+1.0754	0.00340766
+1.09194	0.00327703
+1.11556	0.00348851
+1.15154	0.00503356
+ FCN=5.19198 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=3.45052e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06379e+00   1.77648e-03   1.55524e-06  -1.74896e-05
+   2  p1           2.26397e-02   1.25614e-03   1.09970e-06  -6.20887e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18123.C
+1.07338	0.00394533
+1.07479	0.00353621
+1.06884	0.00348746
+1.07834	0.00350573
+1.08205	0.00342873
+1.09519	0.00328678
+1.12523	0.00351876
+1.14238	0.00499352
+ FCN=6.4594 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.903e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06841e+00   1.78109e-03   1.71269e-06   3.65603e-05
+   2  p1           2.15973e-02   1.25584e-03   1.20762e-06   4.06169e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18124.C
+1.07747	0.00396036
+1.06774	0.00351304
+1.07482	0.00350697
+1.08103	0.00351446
+1.08218	0.00342915
+1.0969	0.00329191
+1.12346	0.00351324
+1.1521	0.005036
+ FCN=5.86511 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=9.53302e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06878e+00   1.78378e-03   1.64505e-06   5.31136e-06
+   2  p1           2.25957e-02   1.26039e-03   1.16237e-06  -4.31151e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18125.C
+1.06936	0.00393054
+1.07503	0.00353702
+1.06799	0.00348469
+1.08017	0.00351166
+1.08408	0.00343515
+1.09567	0.00328822
+1.12312	0.00351216
+1.1446	0.00500321
+ FCN=6.39028 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.71523e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06819e+00   1.78086e-03   1.70466e-06  -3.10664e-05
+   2  p1           2.17800e-02   1.25600e-03   1.20226e-06   1.88124e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18126.C
+1.0664	0.00391968
+1.07404	0.00353376
+1.07111	0.00349488
+1.07789	0.00350426
+1.08397	0.00343483
+1.09493	0.00328599
+1.11824	0.00349689
+1.15252	0.00503783
+ FCN=5.42487 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.75213e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06701e+00   1.78090e-03   1.58854e-06  -8.26373e-06
+   2  p1           2.23754e-02   1.25819e-03   1.12229e-06   4.15088e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18127.C
+1.07046	0.00393458
+1.0735	0.00353196
+1.07136	0.00349568
+1.07841	0.00350596
+1.07965	0.00342114
+1.08953	0.00326977
+1.1132	0.00348113
+1.14525	0.00500604
+ FCN=2.5198 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.04805e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06729e+00   1.77965e-03   1.17354e-06  -3.67803e-06
+   2  p1           1.99339e-02   1.25317e-03   8.26367e-07   3.27142e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18128.C
+1.06983	0.0039323
+1.0615	0.00349249
+1.06925	0.00348879
+1.07905	0.00350805
+1.08245	0.00343
+1.09342	0.00328147
+1.11653	0.00349156
+1.14109	0.00498787
+ FCN=10.3406 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=9.74474e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06533e+00   1.77536e-03   2.10507e-06   1.57567e-05
+   2  p1           2.12068e-02   1.25097e-03   1.48330e-06  -1.58977e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18129.C
+1.07449	0.00394941
+1.06783	0.00351333
+1.07486	0.00350709
+1.08366	0.00352303
+1.08121	0.00342606
+1.09068	0.00327325
+1.1162	0.00349052
+1.14542	0.00500681
+ FCN=5.01118 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.56117e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06879e+00   1.78176e-03   1.53596e-06   2.37808e-06
+   2  p1           2.00884e-02   1.25452e-03   1.08145e-06  -1.55325e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18130.C
+1.07172	0.00393923
+1.06909	0.00351747
+1.07243	0.00349917
+1.07643	0.00349951
+1.08354	0.00343345
+1.08897	0.00326812
+1.11846	0.00349759
+1.15247	0.00503762
+ FCN=3.30643 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=4.73488e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06601e+00   1.78016e-03   1.29929e-06   1.21952e-05
+   2  p1           2.23260e-02   1.25828e-03   9.18388e-07  -9.09564e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18131.C
+1.0699	0.00393254
+1.07193	0.00352682
+1.0765	0.00351246
+1.07971	0.00351017
+1.08483	0.00343756
+1.0908	0.00327361
+1.1166	0.00349176
+1.147	0.0050137
+ FCN=2.36273 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=9.51769e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06899e+00   1.78239e-03   1.14926e-06  -8.56844e-06
+   2  p1           2.03361e-02   1.25548e-03   8.09512e-07  -1.80486e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18132.C
+1.07163	0.0039389
+1.07842	0.00354817
+1.07496	0.00350742
+1.08038	0.00351236
+1.08379	0.00343424
+1.09383	0.00328268
+1.12413	0.00351534
+1.13589	0.00496515
+ FCN=5.36968 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=4.56984e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.07153e+00   1.78361e-03   1.58395e-06   6.24519e-06
+   2  p1           1.92915e-02   1.25291e-03   1.11266e-06   2.01957e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18133.C
+1.07411	0.00394803
+1.07206	0.00352723
+1.07423	0.00350505
+1.07521	0.00349554
+1.08371	0.00343399
+1.09315	0.00328066
+1.12045	0.00350383
+1.14454	0.00500295
+ FCN=2.53798 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.98991e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06859e+00   1.78166e-03   1.17894e-06  -3.05213e-06
+   2  p1           2.08539e-02   1.25554e-03   8.30798e-07   2.30651e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18134.C
+1.07432	0.00394878
+1.07627	0.00354108
+1.06977	0.00349049
+1.08045	0.00351258
+1.08861	0.00344954
+1.09146	0.00327558
+1.11814	0.0034966
+1.14203	0.00499196
+ FCN=6.48734 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.06681e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.07066e+00   1.78348e-03   1.71608e-06  -3.33828e-05
+   2  p1           1.93867e-02   1.25386e-03   1.20647e-06  -1.92418e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18135.C
+1.0742	0.00394833
+1.07159	0.00352568
+1.07423	0.00350504
+1.08177	0.00351687
+1.07939	0.0034203
+1.09054	0.00327282
+1.11647	0.00349136
+1.14833	0.0050195
+ FCN=3.01188 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=3.87303e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06844e+00   1.78229e-03   1.25488e-06  -1.74594e-06
+   2  p1           2.05303e-02   1.25623e-03   8.84488e-07   5.05601e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18136.C
+1.07097	0.00393645
+1.07613	0.00354063
+1.07129	0.00349546
+1.0815	0.00351599
+1.07879	0.00341839
+1.08978	0.00327052
+1.11725	0.00349379
+1.14575	0.00500823
+ FCN=3.32919 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.04897e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06816e+00   1.78139e-03   1.30304e-06   1.36835e-06
+   2  p1           2.03722e-02   1.25510e-03   9.18069e-07   3.78149e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18137.C
+1.07392	0.0039473
+1.06909	0.00351747
+1.07354	0.00350281
+1.082	0.00351762
+1.07903	0.00341917
+1.09121	0.00327483
+1.11548	0.00348827
+1.146	0.00500932
+ FCN=3.82879 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.23564e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06802e+00   1.78088e-03   1.37590e-06   3.64479e-06
+   2  p1           2.02935e-02   1.25446e-03   9.69190e-07   4.94061e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18138.C
+1.07131	0.00393773
+1.07054	0.00352225
+1.07564	0.00350964
+1.07987	0.00351071
+1.0831	0.00343207
+1.08852	0.00326676
+1.11681	0.00349242
+1.14477	0.00500397
+ FCN=1.63275 FROM MIGRAD    STATUS=CONVERGED      34 CALLS          35 TOTAL
+                     EDM=1.62444e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06836e+00   1.78124e-03   1.01612e-06   5.62573e-06
+   2  p1           2.01264e-02   1.25435e-03   7.15549e-07  -7.62440e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18139.C
+1.07163	0.00393889
+1.0713	0.00352472
+1.07377	0.00350354
+1.07761	0.00350335
+1.08315	0.00343221
+1.09152	0.00327575
+1.11986	0.00350198
+1.14485	0.00500431
+ FCN=0.569054 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=9.55261e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06799e+00   1.78085e-03   7.84759e-07   4.70028e-06
+   2  p1           2.09754e-02   1.25526e-03   5.53151e-07  -5.28367e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18140.C
+1.06372	0.0039098
+1.07279	0.00352965
+1.07227	0.00349865
+1.07697	0.00350126
+1.07666	0.00341164
+1.09146	0.00327559
+1.12085	0.00350505
+1.14249	0.00499398
+ FCN=3.72397 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=3.92813e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06532e+00   1.77673e-03   1.35929e-06  -5.23137e-06
+   2  p1           2.17699e-02   1.25360e-03   9.59071e-07   6.53640e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18141.C
+1.07201	0.00394029
+1.06692	0.00351032
+1.07027	0.00349212
+1.0742	0.00349226
+1.07656	0.00341133
+1.0908	0.00327361
+1.11946	0.00350073
+1.14826	0.00501921
+ FCN=2.6763 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=3.87195e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06397e+00   1.77650e-03   1.19861e-06   5.02438e-06
+   2  p1           2.26859e-02   1.25599e-03   8.47419e-07   9.70801e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18142.C
+1.07325	0.00394484
+1.07573	0.00353931
+1.07086	0.00349406
+1.07978	0.00351039
+1.07869	0.00341808
+1.09387	0.0032828
+1.12634	0.00352224
+1.15122	0.00503216
+ FCN=3.69528 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=3.83563e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06756e+00   1.78265e-03   1.35956e-06  -3.44322e-05
+   2  p1           2.31077e-02   1.26086e-03   9.61606e-07   2.62083e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18143.C
+1.06973	0.00393191
+1.07776	0.00354599
+1.07615	0.0035113
+1.07336	0.00348955
+1.08666	0.00344333
+1.09471	0.00328534
+1.11611	0.00349024
+1.14588	0.00500879
+ FCN=8.89591 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.46116e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06998e+00   1.78333e-03   1.97253e-06   4.14138e-05
+   2  p1           1.98922e-02   1.25508e-03   1.38823e-06   3.31092e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18144.C
+1.07535	0.00395259
+1.07	0.00352045
+1.07399	0.00350427
+1.07767	0.00350355
+1.08312	0.00343211
+1.0885	0.00326668
+1.11601	0.00348992
+1.15241	0.00503736
+ FCN=5.95831 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=4.0513e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06749e+00   1.78214e-03   1.65224e-06   7.35115e-07
+   2  p1           2.12362e-02   1.25799e-03   1.16629e-06  -6.39313e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18145.C
+1.06851	0.00392742
+1.07282	0.00352973
+1.07044	0.00349267
+1.08031	0.00351213
+1.07841	0.00341721
+1.09268	0.00327923
+1.12261	0.00351058
+1.14427	0.00500178
+ FCN=2.63197 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=8.10761e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06670e+00   1.77914e-03   1.19352e-06   2.53108e-05
+   2  p1           2.18997e-02   1.25549e-03   8.42240e-07   5.88039e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18146.C
+1.06776	0.00392466
+1.07653	0.00354196
+1.06922	0.0034887
+1.07781	0.00350402
+1.08122	0.0034261
+1.09035	0.00327226
+1.1165	0.00349145
+1.14241	0.00499361
+ FCN=3.94178 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.42196e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06738e+00   1.77918e-03   1.39097e-06  -2.24763e-05
+   2  p1           2.01997e-02   1.25271e-03   9.79379e-07   1.36825e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18147.C
+1.06983	0.00393228
+1.06837	0.0035151
+1.07107	0.00349475
+1.07855	0.0035064
+1.08027	0.00342308
+1.09187	0.00327681
+1.1163	0.00349082
+1.14874	0.0050213
+ FCN=2.38918 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=6.38442e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06587e+00   1.77854e-03   1.15187e-06   7.71272e-06
+   2  p1           2.17084e-02   1.25542e-03   8.13070e-07   1.19410e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18148.C
+1.07018	0.00393357
+1.07381	0.003533
+1.07547	0.00350909
+1.07432	0.00349266
+1.07909	0.00341936
+1.09308	0.00328044
+1.1243	0.00351585
+1.14129	0.00498875
+ FCN=4.92796 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=7.71969e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06760e+00   1.77997e-03   1.52533e-06  -8.46500e-06
+   2  p1           2.13521e-02   1.25493e-03   1.07540e-06  -1.31318e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18149.C
+1.07002	0.00393298
+1.06308	0.00349768
+1.07561	0.00350955
+1.07487	0.00349444
+1.08532	0.0034391
+1.09472	0.00328536
+1.11994	0.00350223
+1.14806	0.00501832
+ FCN=10.0557 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.69762e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06615e+00   1.77864e-03   2.08231e-06   1.66135e-05
+   2  p1           2.24484e-02   1.25610e-03   1.47056e-06  -2.68768e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18150.C
+1.07126	0.00393754
+1.06456	0.00350255
+1.07135	0.00349564
+1.0837	0.00352315
+1.08198	0.00342852
+1.0929	0.00327991
+1.12349	0.00351332
+1.14764	0.00501648
+ FCN=6.93558 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=6.95559e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06647e+00   1.77940e-03   1.76521e-06  -7.89328e-06
+   2  p1           2.27829e-02   1.25719e-03   1.24717e-06  -1.25447e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18151.C
+1.07022	0.0039337
+1.07323	0.00353109
+1.06932	0.00348902
+1.07934	0.00350897
+1.08164	0.00342743
+1.08771	0.00326432
+1.12084	0.00350503
+1.15025	0.0050279
+ FCN=2.80331 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.68809e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06610e+00   1.78007e-03   1.22112e-06  -4.85798e-06
+   2  p1           2.23069e-02   1.25802e-03   8.62995e-07   8.97318e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18152.C
+1.07004	0.00393303
+1.07092	0.00352349
+1.07474	0.00350673
+1.08098	0.00351432
+1.08383	0.00343437
+1.08874	0.0032674
+1.12262	0.0035106
+1.13266	0.004951
+ FCN=6.49445 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.41934e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06930e+00   1.77971e-03   1.71449e-06   6.92752e-06
+   2  p1           1.92118e-02   1.24998e-03   1.20417e-06   4.88649e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18153.C
+1.06864	0.0039279
+1.07632	0.00354126
+1.07984	0.00352335
+1.08947	0.00354192
+1.07813	0.00341631
+1.09385	0.00328276
+1.12434	0.00351597
+1.14515	0.0050056
+ FCN=10.8487 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=8.34642e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.07126e+00   1.78565e-03   2.16247e-06   1.41392e-05
+   2  p1           2.06892e-02   1.25776e-03   1.52317e-06  -1.51667e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18154.C
+1.06645	0.00391987
+1.07356	0.00353219
+1.0711	0.00349484
+1.08255	0.00351941
+1.08472	0.00343718
+1.09238	0.00327835
+1.11556	0.00348852
+1.15341	0.00504173
+ FCN=8.24845 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.86757e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06765e+00   1.78181e-03   1.90588e-06   7.59613e-06
+   2  p1           2.16902e-02   1.25788e-03   1.34547e-06  -5.80251e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18155.C
+1.0735	0.00394578
+1.07466	0.00353581
+1.07369	0.00350328
+1.07705	0.00350155
+1.08251	0.00343021
+1.0995	0.00329971
+1.11423	0.00348436
+1.14254	0.00499418
+ FCN=8.49159 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=5.5987e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.07049e+00   1.78268e-03   1.93155e-06   4.53389e-06
+   2  p1           1.92053e-02   1.25272e-03   1.35734e-06  -2.57815e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18156.C
+1.06493	0.00391425
+1.07813	0.0035472
+1.07665	0.00351296
+1.0759	0.0034978
+1.0825	0.00343016
+1.08998	0.00327114
+1.12038	0.00350359
+1.14281	0.00499539
+ FCN=6.58611 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=9.99106e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06840e+00   1.78112e-03   1.72547e-06   7.45993e-05
+   2  p1           2.04934e-02   1.25457e-03   1.21537e-06  -9.45640e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18157.C
+1.06644	0.00391982
+1.07382	0.00353302
+1.07533	0.00350864
+1.08232	0.00351865
+1.08856	0.00344937
+1.08779	0.00326456
+1.11758	0.00349483
+1.15226	0.00503669
+ FCN=9.76775 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.07371e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06868e+00   1.78340e-03   2.05761e-06  -2.27806e-05
+   2  p1           2.12497e-02   1.25835e-03   1.45184e-06   6.15738e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18158.C
+1.06973	0.00393192
+1.07389	0.00353326
+1.08202	0.00353046
+1.08168	0.0035166
+1.07296	0.00339994
+1.09068	0.00327325
+1.11375	0.00348288
+1.14326	0.00499736
+ FCN=12.376 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.09522e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06927e+00   1.78212e-03   2.28986e-06   7.29981e-06
+   2  p1           1.89400e-02   1.25308e-03   1.61009e-06  -1.93899e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18159.C
+1.07436	0.00394893
+1.06865	0.00351603
+1.06985	0.00349074
+1.08228	0.00351853
+1.08477	0.00343735
+1.08842	0.00326645
+1.12331	0.00351277
+1.15228	0.00503678
+ FCN=6.2111 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.61888e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06684e+00   1.78160e-03   1.68342e-06  -1.39749e-05
+   2  p1           2.28728e-02   1.25996e-03   1.19053e-06  -1.26173e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18160.C
+1.07319	0.00394461
+1.07076	0.00352296
+1.07067	0.00349342
+1.07982	0.00351053
+1.08749	0.00344598
+1.09297	0.00328012
+1.11265	0.00347943
+1.14781	0.00501723
+ FCN=9.15902 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=9.4844e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06899e+00   1.78195e-03   1.99690e-06   5.88664e-06
+   2  p1           1.99640e-02   1.25440e-03   1.40572e-06   1.49839e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18161.C
+1.07098	0.00393652
+1.07572	0.00353928
+1.06917	0.00348853
+1.07761	0.00350336
+1.092	0.00346027
+1.09481	0.00328562
+1.11918	0.00349984
+1.13546	0.00496327
+ FCN=14.5818 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=5.52864e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.07090e+00   1.78168e-03   2.47515e-06   1.46586e-05
+   2  p1           1.89226e-02   1.25048e-03   1.73719e-06  -6.82549e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18162.C
+1.07258	0.00394239
+1.0701	0.00352078
+1.07391	0.00350402
+1.08106	0.00351456
+1.07715	0.0034132
+1.08999	0.00327118
+1.12266	0.00351073
+1.14961	0.00502512
+ FCN=2.66082 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.34564e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06662e+00   1.78079e-03   1.19869e-06   2.15188e-05
+   2  p1           2.23941e-02   1.25852e-03   8.47139e-07  -1.37831e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18163.C
+1.07652	0.00395686
+1.07116	0.00352427
+1.07157	0.00349638
+1.07703	0.00350147
+1.08555	0.00343982
+1.09636	0.00329029
+1.11315	0.00348098
+1.13785	0.00497371
+ FCN=8.41233 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=4.13955e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.07045e+00   1.78139e-03   1.92183e-06   4.78212e-05
+   2  p1           1.82919e-02   1.24986e-03   1.34840e-06  -6.47495e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18164.C
+1.0743	0.00394873
+1.06801	0.00351392
+1.07653	0.00351255
+1.07977	0.00351036
+1.07498	0.00340632
+1.09027	0.00327201
+1.12048	0.00350392
+1.14718	0.00501447
+ FCN=6.04687 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.70093e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06679e+00   1.78032e-03   1.66215e-06   3.21482e-05
+   2  p1           2.15771e-02   1.25666e-03   1.17325e-06  -1.23963e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18165.C
+1.05926	0.00389341
+1.06962	0.0035192
+1.07064	0.00349335
+1.08186	0.00351718
+1.08043	0.00342361
+1.0927	0.0032793
+1.12183	0.00350814
+1.13978	0.00498212
+ FCN=10.8394 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.50855e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06539e+00   1.77554e-03   2.15231e-06   1.33084e-06
+   2  p1           2.18968e-02   1.25198e-03   1.51766e-06  -4.18439e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18166.C
+1.07085	0.00393602
+1.07306	0.00353053
+1.07097	0.00349442
+1.07264	0.00348718
+1.08199	0.00342856
+1.08916	0.00326866
+1.11657	0.00349168
+1.14124	0.00498853
+ FCN=2.93379 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=3.66687e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06666e+00   1.77814e-03   1.24020e-06  -1.50962e-06
+   2  p1           2.01855e-02   1.25209e-03   8.73290e-07  -8.15037e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18167.C
+1.07176	0.00393938
+1.07445	0.00353511
+1.07215	0.00349827
+1.08291	0.00352059
+1.07939	0.00342029
+1.09343	0.00328148
+1.12203	0.00350875
+1.15207	0.00503585
+ FCN=2.65372 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.3509e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06810e+00   1.78305e-03   1.19909e-06   1.24731e-05
+   2  p1           2.23305e-02   1.25985e-03   8.47241e-07   9.33659e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18168.C
+1.06976	0.00393203
+1.07025	0.00352127
+1.07647	0.00351237
+1.07431	0.00349263
+1.08249	0.00343012
+1.09105	0.00327436
+1.12144	0.0035069
+1.13745	0.00497193
+ FCN=4.54318 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=4.04549e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06783e+00   1.77890e-03   1.47386e-06   5.93580e-06
+   2  p1           2.02532e-02   1.25185e-03   1.03719e-06   2.01667e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18169.C
+1.07779	0.00396153
+1.07852	0.0035485
+1.07302	0.00350109
+1.07887	0.00350745
+1.08163	0.00342739
+1.09578	0.00328855
+1.11919	0.00349988
+1.14446	0.00500258
+ FCN=4.81123 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.84995e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.07125e+00   1.78523e-03   1.51306e-06   1.20073e-05
+   2  p1           1.96838e-02   1.25597e-03   1.06449e-06  -3.50018e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18170.C
+1.07588	0.0039545
+1.07011	0.00352083
+1.07246	0.00349927
+1.07908	0.00350812
+1.08018	0.0034228
+1.09164	0.00327611
+1.11783	0.00349564
+1.14955	0.00502486
+ FCN=3.39323 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.03433e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06761e+00   1.78154e-03   1.31306e-06  -4.11853e-06
+   2  p1           2.13034e-02   1.25709e-03   9.26525e-07   6.59166e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18171.C
+1.07709	0.00395895
+1.07892	0.00354982
+1.07108	0.00349478
+1.07731	0.00350237
+1.09057	0.00345572
+1.09042	0.00327245
+1.12081	0.00350495
+1.15239	0.00503724
+ FCN=11.7994 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=3.1813e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.07049e+00   1.78652e-03   2.24683e-06  -3.60714e-06
+   2  p1           2.11193e-02   1.26040e-03   1.58516e-06   1.61229e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18172.C
+1.07361	0.00394616
+1.0768	0.00354284
+1.07768	0.00351631
+1.07801	0.00350466
+1.08614	0.00344169
+1.09407	0.00328342
+1.12311	0.00351212
+1.14014	0.00498372
+ FCN=2.94648 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=4.69559e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.07177e+00   1.78498e-03   1.24741e-06  -6.76916e-06
+   2  p1           1.96139e-02   1.25492e-03   8.76989e-07  -3.28387e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18173.C
+1.07414	0.0039481
+1.0714	0.00352505
+1.07668	0.00351304
+1.07701	0.00350141
+1.07535	0.00340749
+1.08858	0.00326694
+1.1126	0.00347926
+1.15621	0.00505395
+ FCN=13.4757 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=9.93721e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06642e+00   1.78171e-03   2.38095e-06  -6.22037e-06
+   2  p1           2.13252e-02   1.25878e-03   1.68214e-06   3.12050e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18174.C
+1.06869	0.00392809
+1.07829	0.00354774
+1.0682	0.00348538
+1.08186	0.00351718
+1.07985	0.00342177
+1.09205	0.00327736
+1.11615	0.00349038
+1.1431	0.00499665
+ FCN=7.50583 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=9.89036e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06842e+00   1.78065e-03   1.82623e-06   1.07787e-05
+   2  p1           1.99467e-02   1.25323e-03   1.28530e-06  -2.31062e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18175.C
+1.07362	0.00394622
+1.06712	0.00351099
+1.07517	0.00350812
+1.07239	0.00348639
+1.08229	0.00342951
+1.09415	0.00328364
+1.11549	0.00348831
+1.14878	0.00502148
+ FCN=8.8051 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=4.7583e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06674e+00   1.77969e-03   1.96009e-06   1.05942e-05
+   2  p1           2.13097e-02   1.25552e-03   1.38279e-06  -1.16451e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18176.C
+1.06696	0.00392172
+1.06889	0.00351682
+1.0733	0.00350203
+1.0846	0.00352606
+1.07824	0.00341665
+1.09122	0.00327485
+1.12483	0.00351751
+1.15098	0.00503112
+ FCN=4.74116 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=9.99923e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06592e+00   1.77992e-03   1.50158e-06   7.22662e-06
+   2  p1           2.34643e-02   1.25941e-03   1.06247e-06  -2.76598e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18177.C
+1.07392	0.00394731
+1.07295	0.00353018
+1.07303	0.00350114
+1.07315	0.00348885
+1.08335	0.00343284
+1.0886	0.003267
+1.12217	0.00350918
+1.14868	0.00502106
+ FCN=4.52987 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=5.62463e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06689e+00   1.78106e-03   1.47308e-06   2.99510e-06
+   2  p1           2.19839e-02   1.25807e-03   1.04053e-06  -4.91666e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18178.C
+1.06865	0.00392793
+1.07339	0.00353161
+1.06591	0.0034779
+1.07714	0.00350183
+1.08058	0.00342407
+1.09117	0.00327472
+1.11368	0.00348264
+1.1446	0.00500321
+ FCN=5.90766 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=3.3345e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06589e+00   1.77735e-03   1.64292e-06   6.76439e-06
+   2  p1           2.06356e-02   1.25243e-03   1.15771e-06   2.60844e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18179.C
+1.08025	0.00397057
+1.06581	0.00350668
+1.07071	0.00349358
+1.08035	0.00351228
+1.08205	0.00342875
+1.09134	0.00327523
+1.11968	0.00350141
+1.1428	0.00499532
+ FCN=10.2343 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=9.85727e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06816e+00   1.78063e-03   2.09946e-06   1.92277e-05
+   2  p1           2.05696e-02   1.25424e-03   1.47882e-06  -1.05045e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18180.C
+1.07113	0.00393707
+1.07177	0.00352629
+1.08059	0.00352581
+1.0757	0.00349713
+1.08553	0.00343977
+1.08888	0.00326783
+1.11679	0.00349236
+1.15305	0.00504013
+ FCN=9.12097 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.08469e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06855e+00   1.78373e-03   1.99439e-06   3.17527e-05
+   2  p1           2.11110e-02   1.25881e-03   1.40747e-06  -8.54435e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18181.C
+1.07145	0.00393823
+1.0739	0.00353328
+1.07303	0.00350115
+1.08374	0.00352329
+1.08197	0.00342849
+1.09638	0.00329034
+1.12131	0.00350651
+1.14386	0.00499996
+ FCN=3.16578 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.11114e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.07002e+00   1.78304e-03   1.28076e-06  -2.23040e-05
+   2  p1           2.06826e-02   1.25557e-03   9.01872e-07   7.85145e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18182.C
+1.06687	0.00392142
+1.07128	0.00352469
+1.06861	0.00348672
+1.07901	0.00350791
+1.08449	0.00343645
+1.08884	0.00326773
+1.12	0.00350242
+1.13885	0.00497807
+ FCN=4.91102 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.11167e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06668e+00   1.77738e-03   1.52091e-06   2.84543e-06
+   2  p1           2.06584e-02   1.25157e-03   1.07097e-06  -8.75139e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18183.C
+1.07335	0.00394522
+1.07033	0.00352154
+1.07102	0.00349459
+1.08297	0.00352077
+1.07459	0.00340511
+1.0926	0.003279
+1.12073	0.00350468
+1.16586	0.00509613
+ FCN=13.2308 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.03972e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06491e+00   1.78234e-03   2.36498e-06  -1.26374e-05
+   2  p1           2.49493e-02   1.26582e-03   1.67962e-06   3.64606e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18184.C
+1.07346	0.00394562
+1.0683	0.00351488
+1.07647	0.00351236
+1.07677	0.00350061
+1.07935	0.00342017
+1.09348	0.00328165
+1.11341	0.00348179
+1.14724	0.00501473
+ FCN=6.37082 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.52248e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06775e+00   1.78058e-03   1.69949e-06  -4.66826e-06
+   2  p1           2.02885e-02   1.25435e-03   1.19722e-06   3.91336e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18185.C
+1.07272	0.0039429
+1.07255	0.00352884
+1.07887	0.00352018
+1.07828	0.00350552
+1.08754	0.00344613
+1.09315	0.00328066
+1.12337	0.00351296
+1.15322	0.00504091
+ FCN=3.06911 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.74585e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06973e+00   1.78555e-03   1.26715e-06  -8.61473e-06
+   2  p1           2.21855e-02   1.26125e-03   8.95070e-07  -2.03856e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18186.C
+1.07356	0.00394598
+1.06981	0.00351982
+1.06756	0.0034833
+1.08062	0.00351313
+1.07448	0.00340476
+1.09026	0.00327197
+1.11808	0.00349641
+1.13665	0.00496846
+ FCN=7.24713 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.43395e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06634e+00   1.77661e-03   1.79485e-06  -5.46436e-06
+   2  p1           1.99811e-02   1.25007e-03   1.26290e-06  -4.78584e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18187.C
+1.07872	0.00396494
+1.07128	0.00352468
+1.06955	0.00348979
+1.07407	0.00349185
+1.08263	0.00343056
+1.09607	0.00328942
+1.11607	0.00349012
+1.14545	0.00500692
+ FCN=11.0896 FROM MIGRAD    STATUS=CONVERGED      34 CALLS          35 TOTAL
+                     EDM=5.44727e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06835e+00   1.78108e-03   2.17804e-06   7.79690e-06
+   2  p1           2.04381e-02   1.25450e-03   1.53410e-06  -1.73948e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18188.C
+1.078	0.00396229
+1.07198	0.00352697
+1.07318	0.00350163
+1.0739	0.0034913
+1.08211	0.00342893
+1.09495	0.00328605
+1.11926	0.00350009
+1.14299	0.00499615
+ FCN=6.64689 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=4.17915e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06899e+00   1.78175e-03   1.73303e-06   2.79312e-06
+   2  p1           2.03171e-02   1.25454e-03   1.22024e-06  -3.95233e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18189.C
+1.06534	0.00391578
+1.07313	0.00353075
+1.07485	0.00350708
+1.08062	0.00351314
+1.08298	0.0034317
+1.09481	0.00328564
+1.11808	0.00349639
+1.14274	0.00499508
+ FCN=4.24801 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=1.09767e-14    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06874e+00   1.78065e-03   1.43551e-06  -3.05416e-05
+   2  p1           2.04243e-02   1.25343e-03   1.01047e-06   8.39199e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18190.C
+1.07072	0.00393556
+1.07228	0.00352796
+1.06952	0.00348969
+1.08424	0.00352492
+1.08301	0.00343177
+1.09187	0.0032768
+1.11766	0.00349508
+1.1533	0.00504126
+ FCN=6.52761 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=5.90623e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06765e+00   1.78215e-03   1.71985e-06  -8.64888e-06
+   2  p1           2.19529e-02   1.25867e-03   1.21467e-06   1.73480e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18191.C
+1.06921	0.00392999
+1.06782	0.00351328
+1.0727	0.00350006
+1.07091	0.00348159
+1.07644	0.00341097
+1.08821	0.00326583
+1.12146	0.00350698
+1.14994	0.00502655
+ FCN=2.95777 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=7.91341e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06290e+00   1.77592e-03   1.24325e-06   2.02580e-05
+   2  p1           2.34444e-02   1.25738e-03   8.80236e-07  -4.16096e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18192.C
+1.0724	0.00394173
+1.07696	0.00354335
+1.07329	0.00350198
+1.08417	0.00352467
+1.08021	0.00342292
+1.08843	0.00326649
+1.11863	0.00349813
+1.14099	0.00498743
+ FCN=3.65178 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=5.79701e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.07006e+00   1.78294e-03   1.35167e-06   3.84319e-06
+   2  p1           1.92045e-02   1.25360e-03   9.50377e-07  -3.84102e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18193.C
+1.07107	0.00393684
+1.06741	0.00351194
+1.07221	0.00349845
+1.08279	0.00352019
+1.08582	0.00344069
+1.08868	0.00326723
+1.12405	0.00351508
+1.14244	0.00499378
+ FCN=7.17934 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=6.89982e-16    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06774e+00   1.78011e-03   1.79212e-06   2.01140e-05
+   2  p1           2.14590e-02   1.25509e-03   1.26356e-06  -1.51479e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18194.C
+1.06898	0.00392914
+1.07392	0.00353335
+1.07864	0.00351945
+1.07837	0.00350582
+1.08057	0.00342404
+1.09402	0.00328327
+1.11951	0.00350088
+1.14261	0.00499449
+ FCN=2.64135 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=4.58196e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06941e+00   1.78209e-03   1.19622e-06  -4.53901e-06
+   2  p1           2.01834e-02   1.25436e-03   8.41983e-07   1.58230e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18195.C
+1.067	0.00392186
+1.07954	0.00355183
+1.07002	0.00349131
+1.07623	0.00349888
+1.0844	0.0034362
+1.09433	0.0032842
+1.11884	0.00349878
+1.14617	0.00501007
+ FCN=8.89528 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=2.06487e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06840e+00   1.78144e-03   1.97156e-06  -2.86740e-05
+   2  p1           2.10081e-02   1.25564e-03   1.38964e-06   1.37448e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18196.C
+1.06627	0.00391918
+1.06848	0.00351547
+1.08169	0.00352939
+1.07533	0.00349595
+1.08574	0.00344041
+1.09399	0.00328316
+1.11416	0.00348415
+1.14571	0.00500806
+ FCN=13.0401 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=5.45264e-15    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06864e+00   1.78101e-03   2.34713e-06  -4.81244e-05
+   2  p1           2.01237e-02   1.25368e-03   1.65218e-06   1.97588e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18197.C
+1.0691	0.00392958
+1.07204	0.00352719
+1.07683	0.00351355
+1.07444	0.00349305
+1.08353	0.00343343
+1.09062	0.00327305
+1.12358	0.00351359
+1.14978	0.00502584
+ FCN=3.01567 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=6.20845e-17    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06698e+00   1.78123e-03   1.25604e-06  -8.34278e-06
+   2  p1           2.25537e-02   1.25889e-03   8.87710e-07  -1.06294e-05
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18198.C
+1.07278	0.00394314
+1.06817	0.00351443
+1.0776	0.00351606
+1.08436	0.00352531
+1.0788	0.00341845
+1.09153	0.00327579
+1.11627	0.00349075
+1.14841	0.00501987
+ FCN=6.98291 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=9.98943e-18    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  p0           1.06865e+00   1.78235e-03   1.77053e-06  -3.47890e-06
+   2  p1           2.05596e-02   1.25609e-03   1.24776e-06  -3.25656e-06
+SaveSource cannot open file: /home/zhangfy/nl_target/toyMC/results/data_18199.C

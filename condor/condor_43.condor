@@ -1,0 +1,11 @@
+Executable = condor/sim_43.sh
+Universe = vanilla
+getenv = TRUE
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = 
+Log = logs/43.log
+error = logs/43.error
+output = logs/43.output
+Arguments = 
+Queue

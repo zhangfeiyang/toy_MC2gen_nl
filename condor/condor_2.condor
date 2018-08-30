@@ -1,0 +1,11 @@
+Executable = condor/sim_2.sh
+Universe = vanilla
+getenv = TRUE
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = 
+Log = logs/2.log
+error = logs/2.error
+output = logs/2.output
+Arguments = 
+Queue
